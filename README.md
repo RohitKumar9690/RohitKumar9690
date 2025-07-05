@@ -29,49 +29,49 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28" alt="python logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="28" alt="jupyter logo"  />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="28" alt="jupyter logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="javascript logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" alt="flask logo"  />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="28" alt="flask logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="bootstrap logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="28" alt="confluence logo"  />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge" height="28" alt="confluence logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="cplusplus logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="28" alt="debian logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="github logo"  />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" alt="github logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="28" alt="jira logo"  />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="28" alt="jira logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="fastapi logo"  />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="28" alt="fastapi logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="28" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="28" alt="tailwindcss logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="28" alt="nodejs logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28" alt="react logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28" alt="mongodb logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="28" alt="sqlite logo"  />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="28" alt="sqlite logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="mysql logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="28" alt="apache logo"  />
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="28" alt="apache logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="express logo"  />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="28" alt="express logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28" alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="28" alt="pandas logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="28" alt="numpy logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="28" alt="postgresql logo"  />
 </div>
 
 ###
