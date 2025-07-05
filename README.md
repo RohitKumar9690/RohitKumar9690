@@ -43,8 +43,6 @@
   <img width="18" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="cplusplus logo"  />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="28" alt="debian logo"  />
-  <img width="18" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" alt="github logo"  />
   <img width="18" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="28" alt="jira logo"  />
